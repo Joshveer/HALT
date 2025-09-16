@@ -1,6 +1,6 @@
 # HALT: Hallucination Analysis with Logits & Traces
 
-A comprehensive pipeline for detecting and mitigating hallucinations in Large Language Models through token-level uncertainty analysis and reasoning-level disagreement detection.
+Pipeline that analyzes tokenization uncertaintiy (input) and CoT disagreement (reasoning) to detect hallucinations in LLMs.
 
 ## Overview
 
@@ -18,7 +18,6 @@ The system also includes lightweight RAG-based ground truth checking for mitigat
 - **Self-Consistency Mitigation**: Selects majority answers from multiple generations
 - **Comprehensive Evaluation**: Tests on TruthfulQA with multiple metrics
 - **Threshold Optimization**: Automatically optimizes detection thresholds
-- **Visualization**: Generates plots and reports for analysis
 
 ## Installation
 
