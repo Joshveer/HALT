@@ -23,7 +23,7 @@ The system also includes lightweight RAG-based ground truth checking for mitigat
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/halt.git
+git clone https://github.com/Joshveer/HALT.git
 cd halt
 
 # Install dependencies
