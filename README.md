@@ -1,6 +1,6 @@
 # HALT: Hallucination Analysis with Logits & Traces
 
-Pipeline that analyzes tokenization uncertaintiy (input) and CoT disagreement (reasoning) to detect and mitigate hallucinations (output) in LLMs.
+Pipeline that analyzes tokenization uncertainty (input) and CoT disagreement (reasoning) to detect and mitigate hallucinations (output) in LLMs.
 
 ## Overview
 
